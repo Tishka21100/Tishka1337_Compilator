@@ -1,0 +1,13 @@
+﻿{
+  "mappings": {
+    "net/minecraft/client/Minecraft": {
+      "getMinecraft": "getMinecraft",
+      "playerController": "playerController",
+      "player": "thePlayer"
+    },
+    "net/minecraft/client/entity/EntityPlayerSP": {
+      "sendChatMessage": "sendChatMessage",
+      "swingItem": "swingItem"
+    }
+  }
+}
